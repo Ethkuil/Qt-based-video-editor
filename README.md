@@ -12,7 +12,7 @@ A Qt-based(Qt5) video editing software. Using FFmpeg as the backend.
 - [x] Manage videos and  materials
 ### Interface
 
-[screenshot](./img/screenshot.png)
+![screenshot](./img/screenshot.png)
 
 You can read the detailed Chinese version of document [here](./doc/README_cn.md), for content like the design. If you want to know more about the project, don't hesitate to contact me.
 ## Build
